@@ -1,0 +1,28 @@
+Speed Detector function
+
+The assignment requires the programmer to create a function which accepts
+the vehicle speed as its input,the function should return 'ok' if the vehicle's speed is below 70km/h.
+whereas if the vehicle speed is above 70km/h it should return a demerit per 5km/h from the speed limit(70km/h).
+The function should also print'license suspended' if the driver accumilates more than 12 demerits.
+
+REQUIREMENTS TO RUN PROGRAM
+in order to run this program ,a user should have a computer with atleast :
+.8GB RAM
+.500GB solid state hard drive
+.1080p or greater resolution
+
+INSTALLATION PROCESS
+
+To install the program to your local machine ,create a fork in your github account ,clone the ssh link .
+open your machines terminal and copy the program to your computer using the command git clone.thereafter
+use code . to open the program into your local text editor.
+
+RUNNING THE APPLICATION
+
+the application will require an input of the vehicles speed in km/h,there after it will determine whether the vehicle is
+speeding or not depending on the pre-set function.Aside from that,it will also suspend licenses of motorists who will have
+accumilated more than 12 demerits.
+
+Author
+the code was designed by
+Melvine Jerry Ambwere
